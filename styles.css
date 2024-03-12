@@ -1,3 +1,45 @@
-body {background-color:rgb(242, 247, 181); font-family:sans-serif}
-.title {font-family: Geneva, sans-serif; font-size: xx-large;}
-p {font-size: 1.5em;}
+body {background-color:rgb(248, 181, 103);}
+
+.title {font-family: Geneva, sans-serif;
+     font-size: 3em; margin-block-end: 0.5em; text-align: center;}
+
+#pseudo {border: 0.3em solid black; padding: auto; width: 90%; margin: 
+    auto; border-radius: 40%;border-bottom: 1cm;}
+
+#pseudo :hover {background-color: rgb(247, 236, 223);}
+
+
+.p {font-size: 2em; margin: 1em; margin-inline-end: 1em ; text-align: justify;}
+
+.p1 {font-size: 2em; margin: 1em; margin-inline-end: 1em ; text-align: center}
+
+.pt {font-size: 2em; margin: 1em; width: 80%; margin-block-end: 1em;}
+
+.p2 {font-size: 2.5em; margin: 1em; margin-inline-end: 1em ; text-align: center;}
+
+.pack {font-family: sans-serif; font-size: xx-large;}
+
+#main{border: 0.1em solid black;  width: 50%; 
+margin: auto;
+padding: 0.5em;
+border-radius: 5%;
+font-size: 2em; margin-block-end: 1em; text-align: center;}
+
+
+
+.imagens{border: 0.05em solid black; margin: auto;}
+
+#container{width: 65%; border: 0.5em solid rgb(235, 138, 102); text-align: center; padding: 2em; 
+        display: flex; margin: auto; 
+        justify-content: space-around;
+         margin-top: 3em; 
+        margin-block-end: 2em;
+        align-items: center;}
+
+#container :hover{background-color: rgb(248, 214, 171);}
+
+.textimg{font-size: xx-large; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+
+.contact {text-align: center; font-size: 4em;}
+        
